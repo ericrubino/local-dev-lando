@@ -14,7 +14,7 @@ First, either clone or download this repository to a directory on your machine.
 
 #### Option 1: Clone ####
 
-    git clone git@bitbucket.org:uspsoig/local-dev.git
+    https://github.com/ericrubino/local-dev-lando
 
 Using the clone method, you can update to the latest scripts anytime by running "git pull".
 
@@ -38,7 +38,7 @@ The following options can be passed to the script to limit the number of prompts
 - `-resetWsl` - Delete the existing Ubuntu WSL instance and start from scratch
 - `-oigLaptop` - Apply the networking fixes required on an OIG laptop for WSL to connect to the Internet
 - `-fullName "My Name"` - Will be used as the author name for git commits
-- `-email "me@uspsoig.gov"` - Will be used as the author email for git commits
+- `-email "me@heremcom"` - Will be used as the author email for git commits
 
 During WSL installation, you will be prompted to create a username and password. This does not have to match your Windows login information.
 
