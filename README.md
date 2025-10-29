@@ -1,6 +1,6 @@
 # Local Dev #
 
-This set of scripts should get your local development environment on a USPS OIG laptop or dev VM up to a shared baseline.
+This set of scripts should get your local development environment on a Gov laptop or dev VM up to a shared baseline.
 
 Once complete, you are free to install additional dev tools in WSL2 or Windows.
 
